@@ -1,0 +1,10 @@
+fibonacci(a);i;i <= a;retorno = add(i, a - 1);retorno;i++
+7;0;true;0 + 7 - 1;6;1
+;1;true;1 + 7 -1;7;2
+;2;true;2 + 7 - 1;8;3
+;3;true;3 + 7 - 1;9;4
+;4;true;4 + 7 - 1;10;5
+;5;true;5 + 7 - 1;11;6
+;6;true;6 + 7 - 1;12;7
+;7;true;7 + 7 - 1;13;8
+;8;false;--;--;--

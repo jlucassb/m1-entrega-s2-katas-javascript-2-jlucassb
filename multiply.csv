@@ -1,0 +1,6 @@
+multiply(a ,b);i;i <= a;retorno = add(b, retorno);retorno;i++
+4, 6;1;true;6 + 0;6;2
+;2;true;6 + 6;12;3
+;3;true;6 + 12;18;4
+;4;true;6 + 18;24;5
+;5;false;--;--;--
